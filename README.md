@@ -5,12 +5,18 @@ I'm Amit Kumar, a developer from NIET, Greater Noida, passionate about Artificia
 
 I enjoy building intelligent applications, exploring data-driven solutions, and developing modern web experiences that solve real-world problems. My projects span computer vision, automated item-matching systems, and interactive React dashboards.
 
+
+
 🎓 Studying at NIET, Greater Noida
 🤖 Exploring Artificial Intelligence, Machine Learning, and Computer Vision
 📊 Interested in Data Analytics, Feature Engineering, and Data Visualization
 💻 Building modern, responsive web applications
 🧠 Strengthening Data Structures, Algorithms, and problem-solving skills
 🚀 Always learning, building, and exploring new technologies
+
+
+
+
 
 🎯 Current Focus
 🤖 Artificial Intelligence & Machine Learning
